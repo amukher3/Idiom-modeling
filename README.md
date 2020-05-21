@@ -11,3 +11,5 @@ Other methods of modeling the topic such as `matrix factorization` can also be u
 This is still work in progress. I intend to add some vizualisations to show the clusters of the topics also may be try out with other topic models and make it more dependent on topic modeling approach. 
 
 I also intend to improve the user interface and deploy it using Flask or maybe a docker container. 
+
+Future approach --- use word embedding based similarity metric i.e a similarity measure which takes the feature of the word into account while calculating similarity. Recommended package will be from Gensim. 
